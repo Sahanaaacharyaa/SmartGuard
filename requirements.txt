@@ -1,7 +1,7 @@
-# Core Libraries
-streamlit==1.29.0
+streamlit==1.25.0
 matplotlib==3.7.2
 plotly==5.18.0
 numpy==1.25.2
-torch==2.1.0
-transformers==4.34.0
+rich==14.3.3
+markdown-it-py==4.0.0
+mdurl==0.1.2
