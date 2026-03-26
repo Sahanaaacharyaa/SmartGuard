@@ -18,25 +18,10 @@ SmartGuard is evaluated with a structured **red-team test suite** to identify **
 
 
 User Prompt
-
-    ↓
-    
 AI Classifier (DistilBERT)
-
-    ↓
-    
 Keyword Filter (Baseline)
-
-    ↓
-    
 Hybrid Decision Logic (Threshold-based)
-    
-    ↓
-    
 Final Verdict (SAFE / UNSAFE)
-
-    ↓
-    
 Category Classification (jailbreak, prompt_injection, harmful, toxic, general)
 ```
 
