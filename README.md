@@ -78,11 +78,11 @@ else:
 
 **Evaluation Metrics:**
 
-* True Positives (TP): 28
-* True Negatives (TN): 8
-* False Positives (FP): 7
-* False Negatives (FN): 2
-* Overall Accuracy: 0.8
+* True Positives (TP): 25
+* True Negatives (TN): 14
+* False Positives (FP): 1
+* False Negatives (FN): 4
+* Overall Accuracy: 0.89
 
 **Example Success Cases:**
 
@@ -229,8 +229,8 @@ smartguard/
 
 ## 📊 Evaluation Metrics
 
-* Confusion Matrix: TP: 28 | TN: 8 | FP: 7 | FN: 2
-* Accuracy: 0.8
+* Confusion Matrix: TP: 25 | TN: 14 | FP: 1 | FN: 4
+* Accuracy: 0.89
 * P95 Latency: 0.0357 sec per prompt (threshold 0.7)
 * Hybrid logic significantly improves detection over keyword-only baseline
 
