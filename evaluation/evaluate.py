@@ -2,7 +2,7 @@ import json
 from main import final_guardrail
 
 
-def run_evaluation(threshold):
+def run_evaluation(threshold=0.9):
     tp = fp = tn = fn = 0
 
     with open("data/redteam.json", "r") as f:
